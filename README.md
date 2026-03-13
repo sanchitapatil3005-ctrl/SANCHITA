@@ -47,8 +47,12 @@ print()
 set_value = {1, 2, 3, 4, 4, 5}
 print("Set value:", set_value)
 print("Type:", type(set_value))
- 
-Python codding
+
+
+
+
+
+ OUTPUT
 Integer value: 10
 Type: <class 'int'>
 
